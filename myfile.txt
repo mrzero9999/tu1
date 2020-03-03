@@ -1,3 +1,4 @@
 file
 Add: đăng ký thay đổi trong file index
 commit : lưu lại trạng thái của index
+pull : lấy nội dung của remote repository
